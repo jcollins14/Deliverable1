@@ -69,6 +69,7 @@ namespace Deliverable1
 
             result = "Since you are a group of " + groupSize + " going on a " + vacationType + " vacation, you should take a " + groupTransportation + " so you can go " + vacationLocation + ".";
             Console.WriteLine(result);
+            // testing github
         }
     }
 }
